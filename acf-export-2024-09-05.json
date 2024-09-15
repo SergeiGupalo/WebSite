@@ -1,0 +1,815 @@
+[
+    {
+        "key": "group_66b5ed56264e4",
+        "title": "Поля",
+        "fields": [
+            {
+                "key": "field_66b6107dae166",
+                "label": "ГОЛОВНА",
+                "name": "",
+                "aria-label": "",
+                "type": "tab",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "placement": "top",
+                "endpoint": 0,
+                "selected": 0
+            },
+            {
+                "key": "field_66b612f16e0ed",
+                "label": "Головна",
+                "name": "header",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Текст на першому екрані.",
+                "required": 1,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_66b610abae167",
+                "label": "ПРО КУРС",
+                "name": "",
+                "aria-label": "",
+                "type": "tab",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "placement": "top",
+                "endpoint": 0,
+                "selected": 0
+            },
+            {
+                "key": "field_66b6133f6e0ee",
+                "label": "Головна про курс",
+                "name": "curs_title",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Назва ПРО КУРС.",
+                "required": 1,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_66b613886e0ef",
+                "label": "Текст про курс",
+                "name": "curs_text",
+                "aria-label": "",
+                "type": "wysiwyg",
+                "instructions": "Вносимо текст про курс.",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "tabs": "all",
+                "toolbar": "full",
+                "media_upload": 1,
+                "delay": 0
+            },
+            {
+                "key": "field_66b6bc3543d79",
+                "label": "Блок 1 про курс",
+                "name": "block_1_curs",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Ввести інформацію про 1-й блок про курс",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_66b6bc8943d7a",
+                "label": "Блок 2 про курс",
+                "name": "block_2_curs",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Ввести інформацію про 2-й блок про курс",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_66b6bcae43d7b",
+                "label": "Блок 3 про курс",
+                "name": "block_3_curs",
+                "aria-label": "",
+                "type": "textarea",
+                "instructions": "Ввести інформацію про 3-й блок про курс",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "rows": "",
+                "placeholder": "",
+                "new_lines": "br"
+            },
+            {
+                "key": "field_66b6bdd343d7c",
+                "label": "Блок 4 про курс",
+                "name": "block_4_curs",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Ввести інформацію про 4-й блок про курс",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_66b6bdfc43d7d",
+                "label": "Блок 5 про курс",
+                "name": "block_5_curs",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Ввести інформацію про 5-й блок про курс",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_66b6be1e43d7e",
+                "label": "Блок 6 про кур",
+                "name": "block_6_curs",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Ввести інформацію про 6-й блок про курс",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_66b610c5ae168",
+                "label": "ПЕРЕВАГИ КУРСУ",
+                "name": "",
+                "aria-label": "",
+                "type": "tab",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "placement": "top",
+                "endpoint": 0,
+                "selected": 0
+            },
+            {
+                "key": "field_66b6c0f318c79",
+                "label": "Головна",
+                "name": "like_curs",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Блок Переваги курсу, а саме його назва",
+                "required": 1,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_66b8090f01cf7",
+                "label": "Номер блоку 1",
+                "name": "number-block-1",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Тут потрібно ввести номер блоку про переваги курсу",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_66b80aac01cf8",
+                "label": "Текст блоку 1",
+                "name": "text-block-1",
+                "aria-label": "",
+                "type": "wysiwyg",
+                "instructions": "Тут потрібно ввести текст блоку 1, для виділення тексту в помаранчевий колір потрібно прописати <span> тут буде текст помаранчевого кольору <\/span>",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "tabs": "all",
+                "toolbar": "full",
+                "media_upload": 1,
+                "delay": 0
+            },
+            {
+                "key": "field_66b80ad801cf9",
+                "label": "Номер блоку 2",
+                "name": "number-block-2",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Тут потрібно ввести номер блоку про переваги курсу",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_66b80bb101cfe",
+                "label": "Текст блоку 2",
+                "name": "text-block-2",
+                "aria-label": "",
+                "type": "wysiwyg",
+                "instructions": "Тут потрібно ввести текст блоку 2, для виділення тексту в помаранчевий колір потрібно прописати <span> тут буде текст помаранчевого кольору <\/span>",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "tabs": "all",
+                "toolbar": "full",
+                "media_upload": 1,
+                "delay": 0
+            },
+            {
+                "key": "field_66b80af901cfa",
+                "label": "Номер блоку 3",
+                "name": "number-block-3",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Тут потрібно ввести номер блоку про переваги курсу",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_66b80bce01cff",
+                "label": "Текст блоку 3",
+                "name": "text-block-3",
+                "aria-label": "",
+                "type": "wysiwyg",
+                "instructions": "Тут потрібно ввести текст блоку 3, для виділення тексту в помаранчевий колір потрібно прописати <span> тут буде текст помаранчевого кольору <\/span>",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "tabs": "all",
+                "toolbar": "full",
+                "media_upload": 1,
+                "delay": 0
+            },
+            {
+                "key": "field_66b80b1301cfb",
+                "label": "Номер блоку 4",
+                "name": "number-block-4",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Тут потрібно ввести номер блоку про переваги курсу",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_66b80f5c01d00",
+                "label": "Текст блоку 4",
+                "name": "text-block-4",
+                "aria-label": "",
+                "type": "wysiwyg",
+                "instructions": "Тут потрібно ввести текст блоку 4, для виділення тексту в помаранчевий колір потрібно прописати <span> тут буде текст помаранчевого кольору <\/span>",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "tabs": "all",
+                "toolbar": "full",
+                "media_upload": 1,
+                "delay": 0
+            },
+            {
+                "key": "field_66b80b4601cfc",
+                "label": "Номер блоку 5",
+                "name": "number-block-5",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Тут потрібно ввести номер блоку про переваги курсу",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_66b80f8401d01",
+                "label": "Текст блоку 5",
+                "name": "text-block-5",
+                "aria-label": "",
+                "type": "wysiwyg",
+                "instructions": "Тут потрібно ввести текст блоку 2, для виділення тексту в помаранчевий колір потрібно прописати <span> тут буде текст помаранчевого кольору <\/span>",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "tabs": "all",
+                "toolbar": "full",
+                "media_upload": 1,
+                "delay": 0
+            },
+            {
+                "key": "field_66b80b8601cfd",
+                "label": "Номер блоку 6",
+                "name": "number-block-6",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Тут потрібно ввести номер блоку про переваги курсу",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_66b80fb101d02",
+                "label": "Текст блоку 6",
+                "name": "text-block-6",
+                "aria-label": "",
+                "type": "wysiwyg",
+                "instructions": "Тут потрібно ввести текст блоку 6, для виділення тексту в помаранчевий колір потрібно прописати <span> тут буде текст помаранчевого кольору <\/span>",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "tabs": "all",
+                "toolbar": "full",
+                "media_upload": 1,
+                "delay": 0
+            },
+            {
+                "key": "field_66b610e3ae169",
+                "label": "ВІДГУКИ",
+                "name": "",
+                "aria-label": "",
+                "type": "tab",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "placement": "top",
+                "endpoint": 0,
+                "selected": 0
+            },
+            {
+                "key": "field_66b8c0f913ca5",
+                "label": "Головна Відгуки",
+                "name": "reviews-title",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Тут потрібно написати Заголовок для блоку ВІДГУКИ",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_66b811b501d42",
+                "label": "Ім'я відгуку 1",
+                "name": "name_reviews-1",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Тут потрібно ввести ім'я, того хто залишив відгук",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_66b8121e01d43",
+                "label": "Текст відгуку 1",
+                "name": "text_reviews-1",
+                "aria-label": "",
+                "type": "wysiwyg",
+                "instructions": "Тут потрібно ввести текст відгуку",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "tabs": "all",
+                "toolbar": "full",
+                "media_upload": 1,
+                "delay": 0
+            },
+            {
+                "key": "field_66b8124e01d44",
+                "label": "Ім'я відгуку 2",
+                "name": "name_reviews-2",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Тут потрібно ввести ім'я, того хто залишив відгук",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_66b815f74ee3e",
+                "label": "Текст відгуку 2",
+                "name": "text_reviews-2",
+                "aria-label": "",
+                "type": "wysiwyg",
+                "instructions": "Тут потрібно ввести текст відгуку",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "tabs": "all",
+                "toolbar": "full",
+                "media_upload": 1,
+                "delay": 0
+            },
+            {
+                "key": "field_66b8127601d45",
+                "label": "Ім'я відгуку 3",
+                "name": "name_reviews-3",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Тут потрібно ввести ім'я, того хто залишив відгук",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_66b816124ee3f",
+                "label": "Текст відгуку 3",
+                "name": "text_reviews-3",
+                "aria-label": "",
+                "type": "wysiwyg",
+                "instructions": "Тут потрібно ввести текст відгуку",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "tabs": "all",
+                "toolbar": "full",
+                "media_upload": 1,
+                "delay": 0
+            },
+            {
+                "key": "field_66b8128e01d46",
+                "label": "Ім'я відгуку 4",
+                "name": "name_reviews-4",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Тут потрібно ввести ім'я, того хто залишив відгук",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_66b816354ee40",
+                "label": "Текст відгуку 4",
+                "name": "text_reviews-4",
+                "aria-label": "",
+                "type": "wysiwyg",
+                "instructions": "Тут потрібно ввести текст відгуку",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "tabs": "all",
+                "toolbar": "full",
+                "media_upload": 1,
+                "delay": 0
+            },
+            {
+                "key": "field_66b812ad01d47",
+                "label": "Ім'я відгуку 5",
+                "name": "name_reviews-5",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Тут потрібно ввести ім'я, того хто залишив відгу",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_66b8164e4ee41",
+                "label": "Текст відгуку 5",
+                "name": "text_reviews-5",
+                "aria-label": "",
+                "type": "wysiwyg",
+                "instructions": "Тут потрібно ввести текст відгуку",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "tabs": "all",
+                "toolbar": "full",
+                "media_upload": 1,
+                "delay": 0
+            },
+            {
+                "key": "field_66b6113027081",
+                "label": "КОНТАКТИ",
+                "name": "",
+                "aria-label": "",
+                "type": "tab",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "placement": "top",
+                "endpoint": 0,
+                "selected": 0
+            },
+            {
+                "key": "field_66b5ed567c44d",
+                "label": "Телефон",
+                "name": "phone",
+                "aria-label": "",
+                "type": "number",
+                "instructions": "Введіть номер телефону",
+                "required": 1,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "min": "",
+                "max": "",
+                "placeholder": "",
+                "step": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_66b5ef3f7c44e",
+                "label": "Instagram",
+                "name": "instagram_link",
+                "aria-label": "",
+                "type": "url",
+                "instructions": "Введіть посилання на інстаграм акаунт",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "placeholder": ""
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "page",
+                    "operator": "==",
+                    "value": "12"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": "",
+        "show_in_rest": 0
+    }
+]
